@@ -1,2 +1,0 @@
-Id: 1, Nome: Espetaculo Golfinhos, Data: 01/12/2024 15:30:00, Duracao: 02:30:00
-Id: 2, Nome: Espetaculo Canarios, Data: 05/12/2024 14:30:00, Duracao: 02:00:00

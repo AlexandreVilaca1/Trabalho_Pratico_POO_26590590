@@ -1,7 +1,2 @@
 Id: 1, Tipo: Elefante, Nome: Damiao, DataNascimento: 22/01/2020, Grupo: Mamifero
 Id: 2, Tipo: Macaco, Nome: Golias, DataNascimento: 11/04/2018, Grupo: Mamifero
-Id: 3, Tipo: Hipopotamo, Nome: Hipo, DataNascimento: 24/09/2021, Grupo: Mamifero
-Id: 4, Tipo: Golfinho, Nome: Golfu, DataNascimento: 16/07/2019, Grupo: Peixe
-Id: 5, Tipo: Canario, Nome: Paulo, DataNascimento: 11/09/2022, Grupo: Ave
-Id: 6, Tipo: Leao, Nome: Simba, DataNascimento: 15/04/2020, Grupo: Mamifero
-Id: 7, Tipo: Tigre, Nome: Somba, DataNascimento: 17/06/2018, Grupo: Mamifero

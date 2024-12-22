@@ -1,2 +1,0 @@
-Id: 1, Preco: 10, DataEmissao: 30/11/2024 10:40:00, NumeroAssento: B16, Cliente: Miguel, TipoEspetaculo: Golfinhos, DataEspetaculo: 01/12/2024 15:30:00
-Id: 2, Preco: 10, DataEmissao: 05/12/2024 12:20:00, NumeroAssento: A21, Cliente: Maria, TipoEspetaculo: Cnarios, DataEspetaculo: 05/12/2024 14:30:00

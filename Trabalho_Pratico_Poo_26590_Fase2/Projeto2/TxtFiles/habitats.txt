@@ -1,4 +1,0 @@
-Id: 1, Nome: Floresta Tropical Passaros, Ultima Manutencaoa: 02/12/2024 11:25:00
-Id: 2, Nome: Piscina Golfinhos, Ultima Manutencaoa: 03/12/2024 17:45:00
-Id: 3, Nome: Savana, Ultima Manutencaoa: 03/12/2024 09:50:00
-Id: 4, Nome: Lagoa dos Hipopotamos, Ultima Manutencaoa: 03/12/2024 18:20:00
