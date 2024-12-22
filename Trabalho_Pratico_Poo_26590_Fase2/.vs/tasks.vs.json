@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Animal",
+      "appliesTo": "Projeto2/Animal.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-animais",
+      "appliesTo": "Projeto2/animais.txt",
+      "type": "launch"
+    }
+  ]
+}

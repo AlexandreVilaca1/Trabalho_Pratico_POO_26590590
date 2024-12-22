@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Models\\DLL_Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\DLL_Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\DLL_Enums.csproj",
+        "projectName": "DLL_Enums",
+        "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\DLL_Enums.csproj",
+        "packagesPath": "C:\\Users\\alexandre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\DLL_Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\DLL_Interfaces.csproj",
+        "projectName": "DLL_Interfaces",
+        "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\DLL_Interfaces.csproj",
+        "packagesPath": "C:\\Users\\alexandre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\DLL_Logs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\DLL_Logs.csproj",
+        "projectName": "DLL_Logs",
+        "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\DLL_Logs.csproj",
+        "packagesPath": "C:\\Users\\alexandre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Models\\DLL_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Models\\DLL_Models.csproj",
+        "projectName": "DLL_Models",
+        "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Models\\DLL_Models.csproj",
+        "packagesPath": "C:\\Users\\alexandre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\DLL_Enums.csproj": {
+                "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Enums\\DLL_Enums.csproj"
+              },
+              "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\DLL_Interfaces.csproj": {
+                "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Interfaces\\DLL_Interfaces.csproj"
+              },
+              "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\DLL_Logs.csproj": {
+                "projectPath": "C:\\Users\\alexandre\\Desktop\\Trabalho_Pratico_Poo_26590_Fase2\\Trabalho_Pratico_Poo_26590_Fase2\\DLL_Logs\\DLL_Logs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

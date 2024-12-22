@@ -1,0 +1,48 @@
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\bin\Debug\net6.0\DLL_Enums.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\refint\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\DLL_Enums\obj\Debug\net6.0\ref\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\refint\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\DLL_Enums\obj\Debug\net6.0\ref\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\bin\Debug\net6.0\DLL_Enums.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\refint\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\DLL_Enums\obj\Debug\net6.0\ref\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.deps.json
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\refint\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\DLL_Enums\obj\Debug\net6.0\ref\DLL_Enums.dll

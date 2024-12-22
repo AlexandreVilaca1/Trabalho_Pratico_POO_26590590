@@ -1,0 +1,2 @@
+﻿Calorias: 400, Quantidade: 2, Tipo Comida: Carne, Data Refeicao: 14/12/2024 11:40:00, Animal: Hipo
+Calorias: 150, Quantidade: 4, Tipo Comida: Fruta, Data Refeicao: 14/12/2024 16:30:00, Animal: Hipo

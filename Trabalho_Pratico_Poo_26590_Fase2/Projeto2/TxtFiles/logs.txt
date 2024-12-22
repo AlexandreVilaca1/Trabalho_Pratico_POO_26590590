@@ -1,0 +1,295 @@
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 2 itens á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 3, Tipo: Hipopotamo, Nome: Hipo, DataNascimento: 24/09/2021, Grupo: Mamifero ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 4, Tipo: Golfinho, Nome: Golfu, DataNascimento: 16/07/2019, Grupo: Peixe ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 5, Tipo: Canario, Nome: Paulo, DataNascimento: 11/09/2022, Grupo: Ave ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 6, Tipo: Leao, Nome: Simba, DataNascimento: 15/04/2020, Grupo: Mamifero ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 7, Tipo: Tigre, Nome: Somba, DataNascimento: 17/06/2018, Grupo: Mamifero ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Erro: Object must be the same type as the enum. The type passed in was 'DLL_Enums.TipoAnimal'; the enum type was 'DLL_Enums.TipoFuncionario'.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O objeto 'Id: 1, Tipo: Elefante, Nome: Damiao, DataNascimento: 22/01/2020, Grupo: Mamifero' já está presente no ficheiro
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O objeto 'Id: 2, Tipo: Macaco, Nome: Golias, DataNascimento: 11/04/2018, Grupo: Mamifero' já está presente no ficheiro
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 5 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :A alimentacao com data 14/12/2024 11:40:00 foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :A alimentacao com data 14/12/2024 16:30:00 foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 2 alimentacoes ao ficheiro com sucesso.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Nome: Alexandre Vilaca, DataNascimento: 14/02/2001, Email: alexandrepv1357@gmail.com, Telefone: 910543931, Especificacao: Cuidador ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 2, Nome: Mafalada Coelho, DataNascimento: 11/08/1999, Email: mafalda99@gmail.com, Telefone: 967231780, Especificacao: Veternario ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 3, Nome: Pedro Pires, DataNascimento: 08/06/1987, Email: pedro@outlook.pt, Telefone: 914790531, Especificacao: Cuidador ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 4, Nome: Ricardo Gomes, DataNascimento: 25/01/1992, Email: ricardo@outlook.pt, Telefone: 924539214, Especificacao: Limpeza ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 5, Nome: Maria Fonseca, DataNascimento: 17/06/1998, Email: maria@outlook.pt, Telefone: 967184521, Especificacao: Cuidador ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 6, Nome: Joana Lopes, DataNascimento: 11/09/1984, Email: joana@outlook.pt, Telefone: 91782639, Especificacao: Veternario ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 6 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Nome: Floresta Tropical Passaros, Ultima Manutencaoa: 02/12/2024 11:25:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 2, Nome: Piscina Golfinhos, Ultima Manutencaoa: 03/12/2024 17:45:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 3, Nome: Savana, Ultima Manutencaoa: 03/12/2024 09:50:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 4, Nome: Lagoa dos Hipopotamos, Ultima Manutencaoa: 03/12/2024 18:20:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Paulo foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Pedro Pires foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Golfu foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Alexandre Vilaca foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Simba foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Somba foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Somba foi removido com sucesso da lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Alexandre Vilaca foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Maria Fonseca foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Alexandre Vilaca foi removido com sucesso da lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Hipo foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Maria Fonseca foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 4 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Ricardo Gomes foi adicionado com sucesso da lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Habitat: Floresta Tropical Passaros, Ultima Limpeza: 03/12/2024 14:30:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 1 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Mafalada Coelho foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Joana Lopes foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Data Assistencia: 16/11/2024 14:30:00, Tipo de Assistencia: Rotina, Relatorio: Animal com pouca vontade de comer, possivelmente devido a congestão nasal, Animal: Hipo ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 1 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Nome: Miguel, DataNascimento: 19/07/1992, Email: miguel@outllok.pt, Telefone: 923189417, Tipo: Novo, DataRegisto: 31/10/2024 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Nome: Maria, DataNascimento: 24/03/2001, Email: maria@gmail.com, Telefone: 918362084, Tipo: Socio, DataRegisto: 04/11/2022 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 2 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Golfu foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Alexandre Vilaca foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O cliente Miguel foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O animal Paulo foi adicionada com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O funcionario Pedro Pires foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :O cliente Maria foi adicionado com sucesso á lista.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Nome: Espetaculo Golfinhos, Data: 01/12/2024 15:30:00, Duracao: 02:30:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 2, Nome: Espetaculo Canarios, Data: 05/12/2024 14:30:00, Duracao: 02:00:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 2 itens ao ficheiro.
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 1, Preco: 10, DataEmissao: 30/11/2024 10:40:00, NumeroAssento: B16, Cliente: Miguel, TipoEspetaculo: Golfinhos, DataEspetaculo: 01/12/2024 15:30:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :o objeto, Id: 2, Preco: 10, DataEmissao: 05/12/2024 12:20:00, NumeroAssento: A21, Cliente: Maria, TipoEspetaculo: Cnarios, DataEspetaculo: 05/12/2024 14:30:00 ,foi adicionado á lista com sucesso
+---------------------------------------------------------------------
+
+Log Entry : 23:02:04 21 de dezembro de 2024
+  :
+  :Foram adicionados 2 itens ao ficheiro.
+---------------------------------------------------------------------

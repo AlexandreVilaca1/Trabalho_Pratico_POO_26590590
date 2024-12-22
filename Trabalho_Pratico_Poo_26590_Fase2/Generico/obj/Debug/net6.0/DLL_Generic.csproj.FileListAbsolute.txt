@@ -1,0 +1,30 @@
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\bin\Debug\net6.0\DLL_Generic.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\bin\Debug\net6.0\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\bin\Debug\net6.0\DLL_Generic.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\refint\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\ref\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\bin\Debug\net6.0\DLL_Logs.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\bin\Debug\net6.0\DLL_Logs.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Generico\obj\Debug\net6.0\DLL_Generic.csproj.CopyComplete
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\bin\Debug\net6.0\DLL_Generic.deps.json
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\bin\Debug\net6.0\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\bin\Debug\net6.0\DLL_Generic.pdb
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\bin\Debug\net6.0\DLL_Logs.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\bin\Debug\net6.0\DLL_Logs.pdb
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.csproj.CopyComplete
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\refint\DLL_Generic.dll
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\DLL_Generic.pdb
+C:\Users\alexandre\Desktop\Trabalho_Pratico_Poo_26590_Fase2\Trabalho_Pratico_Poo_26590_Fase2\Generico\obj\Debug\net6.0\ref\DLL_Generic.dll

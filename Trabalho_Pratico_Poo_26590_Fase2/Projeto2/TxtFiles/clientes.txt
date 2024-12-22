@@ -1,0 +1,2 @@
+Nome: Miguel, DataNascimento: 19/07/1992, Email: miguel@outllok.pt, Telefone: 923189417, Tipo: Novo, DataRegisto: 31/10/2024
+Nome: Maria, DataNascimento: 24/03/2001, Email: maria@gmail.com, Telefone: 918362084, Tipo: Socio, DataRegisto: 04/11/2022

@@ -1,0 +1,6 @@
+Id: 1, Nome: Alexandre Vilaca, DataNascimento: 14/02/2001, Email: alexandrepv1357@gmail.com, Telefone: 910543931, Especificacao: Cuidador
+Id: 2, Nome: Mafalada Coelho, DataNascimento: 11/08/1999, Email: mafalda99@gmail.com, Telefone: 967231780, Especificacao: Veternario
+Id: 3, Nome: Pedro Pires, DataNascimento: 08/06/1987, Email: pedro@outlook.pt, Telefone: 914790531, Especificacao: Cuidador
+Id: 4, Nome: Ricardo Gomes, DataNascimento: 25/01/1992, Email: ricardo@outlook.pt, Telefone: 924539214, Especificacao: Limpeza
+Id: 5, Nome: Maria Fonseca, DataNascimento: 17/06/1998, Email: maria@outlook.pt, Telefone: 967184521, Especificacao: Cuidador
+Id: 6, Nome: Joana Lopes, DataNascimento: 11/09/1984, Email: joana@outlook.pt, Telefone: 91782639, Especificacao: Veternario
